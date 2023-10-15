@@ -1,0 +1,24 @@
+Primary Business Partner Data Tables
+
+    BUT000: General data
+    BUT020: Address data
+    BUT050: Relationships
+    BUT100: Business partner roles
+
+Header Extension Tables
+
+    CRMD_ACTIVITY_H: Activity header data
+    CRMD_CUSTOMER_H: Customer extension data
+    CRMD_LEAD_H: Lead header data
+    CRMD_OPPORT_H: Opportunity header data
+    CRMD_PRICING: Pricing parameter data
+    CRMD_SALES: Sales data
+    CRMD_SERVICE_H: Service header data
+
+Item Extension Tables
+
+    CRMD_CUSTOMER_I: Line item customer extension
+    CRMD_OPPORT_I: Line item opportunity data
+    CRMD_PRODUCT_I: Line item product data
+    CRMD_PRICING_I: Line item pricing data
+    CRMD_SERVICE_I: Line item service data
